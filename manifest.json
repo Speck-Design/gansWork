@@ -1,16 +1,9 @@
 [
   {
-    "version": "0.0.0.150",
-    "build": "150",
+    "version": "0.0.0.164",
+    "build": "164",
     "releaseDate": "2025-07-08",
     "releaseNotes": "Initial public release with cloud update support.",
-    "url": "URL_TO_YOUR_150_BIN_FILE"
-  },
-  {
-    "version": "0.0.0.149",
-    "build": "149",
-    "releaseDate": "2025-06-20",
-    "releaseNotes": "Previous stable release.",
-    "url": "URL_TO_YOUR_149_BIN_FILE"
+    "url": "https://github.com/Speck-Design/gansWork/releases/download/v0.0.0.164/ganWorks-0_0_0_164.bin"
   }
 ]
