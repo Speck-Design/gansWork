@@ -1,4 +1,11 @@
 [
+    {
+    "version": "1.0.0.3",
+    "build": "1",
+    "releaseDate": "2025-07-10",
+    "releaseNotes": "Initial public release with cloud update support.",
+    "url": "https://github.com/Speck-Design/gansWork/releases/download/v0.0.0.164/ganWorks-0_0_0_164.bin"
+  }
   {
     "version": "0.0.0.164",
     "build": "164",
