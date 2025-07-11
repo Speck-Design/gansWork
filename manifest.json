@@ -1,16 +1,9 @@
 [
-  {
-    "version": "1.0.0.3",
+    {
+    "version": "1.0.0.16",
     "build": "1",
-    "releaseDate": "2025-07-10",
-    "releaseNotes": "Updated communication and interface screens",
-    "url": "https://github.com/Speck-Design/gansWork/releases/download/v1.0.0.3/ganWorks-1_0_0_3.bin"
-  },
-  {
-    "version": "0.0.0.164",
-    "build": "164",
-    "releaseDate": "2025-07-08",
-    "releaseNotes": "Initial public release with cloud update support.",
-    "url": "https://github.com/Speck-Design/gansWork/releases/download/v0.0.0.164/ganWorks-0_0_0_164.bin"
+    "releaseDate": "2025-07-11",
+    "releaseNotes": "Removed spurious debug messages",
+    "url": "https://github.com/Speck-Design/gansWork/releases/download/v1.0.0.16/ganWorks-1_0_0_16.bin"
   }
 ]
